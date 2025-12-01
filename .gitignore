@@ -1,0 +1,32 @@
+# Directorios de compilación
+build/
+cmake-build-*/
+
+# Ejecutables
+*.exe
+*.out
+*.app
+
+# Archivos de compilación
+*.o
+*.obj
+*.so
+*.dylib
+*.dll
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+
+# Sistema
+.DS_Store
+Thumbs.db
